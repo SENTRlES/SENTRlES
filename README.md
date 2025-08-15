@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecbecd85-5de1-4c64-981e-209ab41179ff"/>
+</p>
+   
+　
 
-<!--
-**SENTRlES/SENTRlES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=sentrles&color=80040c&style=plastic&label=　⟡　&abbreviated=true"/>
+</p>
+ 
+　
 
-Here are some ideas to get you started:
+<p align="center">
+  i can be found at the roblox area or at hermit hill<br/>
+  in the safe server. sometimes i am sitting with my<br/>
+  friend in the genshin area, though! 
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+i apologize if i didn't see your message, most of<br/>
+the time i'm off-tab. 
+</p>
